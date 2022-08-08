@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class SumOfPrimes {
@@ -5,7 +6,7 @@ public class SumOfPrimes {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-
+//Karlyn Osei-Bonsu (10970624)
         // Take input from user
         System.out.print("Find sum of prime numbers upto : ");
         int upto = scanner.nextInt();
